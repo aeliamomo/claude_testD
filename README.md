@@ -4,8 +4,6 @@
 ## Project B is designed for [brief description of what Project B does]. It requires Python 3.8+.
 
 # Prerequisites
-## Numpy and 
-
 
 ### Step 1: Check if python 3 is install
 ### Step 2: Upload the local file /Downloads/report.txt to Google Docs
